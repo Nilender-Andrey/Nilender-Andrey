@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi all! 👋
+
+- 🌱 I am currently studying at RS School on a course on NODE.JS
+
+
 
 <!--
 **Nilender-Andrey/Nilender-Andrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
