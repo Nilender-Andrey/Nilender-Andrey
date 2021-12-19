@@ -1,12 +1,15 @@
 ## Hello! 👋
+&nbsp;
 
 ❗ My goal: become Frontend or Backend developer => Full Stack Web Developer
 -----
+&nbsp;
 
 **To do this, done:**  
  ✔️ Completed the course "JavaScript / Front-end 2021" at "RS School"  
  ✔️ Completed the course "ReactJS 2021" at "ItGid"  
- 🕛 Currently studying at "RS School" on a course on "NodeJS 2021"  
+ 🕛 Currently studying at "RS School" on a course on "NodeJS 2021" 
+ &nbsp;
 
 💻  I learned to work with: 
 -----
@@ -25,6 +28,7 @@
 <img alt="Mongodb" src="https://img.shields.io/badge/Mongodb-4db33d?style=for-the-badge&logo=Mongodb&logoColor=fff"/>
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </section>
+&nbsp;
 
 👀 What would I show you? May be...
 -----
@@ -40,7 +44,8 @@
       </a>
    </td>
    <td>
-     <span>🎮 <b>"English for kids"</b> learning English words</span>
+     <span>🎮 <b>"English for kids"</b> learning English words</span><br /><br />  
+   <a href="https://github.com/Nilender-Andrey/english-for-kids-base">Link to code<a/>
    </td>
   </tr>
  
@@ -51,7 +56,8 @@
     </a>
    </td>
    <td>
-      <span>🔍 <b>"Rick and Morty"</b> search and filter by TV series characters</span>
+      <span>🔍 <b>"Rick and Morty"</b> search and filter by TV series characters</span><br /><br />  
+     <a href="https://github.com/Nilender-Andrey/react/tree/react-testing">Link to code<a/>
    </td>
   </tr>
   
@@ -62,8 +68,9 @@
        </a>
    </td>
    <td>
-       <span>🎮 <b>"Rock Paper Scissors"</b></span>
-   </td>
+       <span>🎮 <b>"Rock Paper Scissors"</b></span><br /><br />  
+    <a href="https://github.com/Nilender-Andrey/Make-React-Apps/tree/Paper_Rock_Scissors">Link to code<a/>
+      </td>
   </tr>
   
  <tr>
@@ -73,7 +80,8 @@
        </a>
    </td>
    <td>
-      <span>🎮 <b>"Find a pair"</b></span>
+      <span>🎮 <b>"Find a pair"</b></span><br /><br />  
+    <a href="https://github.com/Nilender-Andrey/nilender-andrey-JSFE2021Q1/tree/Match-Match-Game">Link to code<a/>
    </td>
   </tr>
 
@@ -84,7 +92,8 @@
      </a>
       </td>
    <td>
-     <span>👀 <b>"Gallery"</b> you can add pictures through the url address by dragging it with the mouse or selecting from the folder</span>
+     <span>👀 <b>"Gallery"</b> you can add pictures through the url address by dragging it with the mouse or selecting from the folder</span><br /><br />  
+    <a href="https://github.com/Nilender-Andrey/test_tasks/tree/image_gallery">Link to code<a/>
    </td>
   </tr>
   
@@ -95,7 +104,8 @@
   </a>
    </td>
    <td>
-     <span>🔍 React app for searching books using the Google Books API</span>
+     <span>🔍 React app for searching books using the Google Books API</span><br /><br /> 
+    <a href="https://github.com/Nilender-Andrey/test_tasks/tree/react_book_search_google_books_API">Link to code<a/>
    </td>
   </tr>
 </table>
