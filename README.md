@@ -10,7 +10,7 @@
 
 💻  I learned to work with: 
 -----
-<p align="center">
+<section align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330"/>
@@ -24,16 +24,91 @@
 <img alt="SCSS" src="https://img.shields.io/badge/Scss-cc6a9a?style=for-the-badge&logo=sass&logoColor=f3f6f4"/>
 <img alt="Mongodb" src="https://img.shields.io/badge/Mongodb-4db33d?style=for-the-badge&logo=Mongodb&logoColor=fff"/>
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</p>
+</section>
 
 👀 What would I show you? May be...
 -----
 
-|   |   |
-|---|---|
-|   |   |
-|   |   |
-|   |   |
+ <p align="center">You can click on the picture to see how the app works</b></p>
+
+-----
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://rolling-scopes-school.github.io/nilender-andrey-JSFE2021Q1/english-for-kids-base/dist/" target="_blank" >
+      <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2021-09-27_18-38-59.jpg" width="480" ></kbd>
+      </a>
+   </td>
+   <td>
+     <span>🎮 <b>"English for kids"</b> learning English words</span>
+   </td>
+  </tr>
+ 
+ <tr>
+   <td>
+     <a href="https://nilender-andrey.github.io/react_pages/react-redux/#/" target="_blank">
+    <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2021-09-27_21-16-07.jpg" width="480"></kbd> 
+    </a>
+   </td>
+   <td>
+      <span>🔍 <b>"Rick and Morty"</b> search and filter by TV series characters</span>
+   </td>
+  </tr>
+  
+ <tr>
+    <td>
+       <a href="https://nilender-andrey.github.io/Make-React-Apps/paper_rock_scissors/" target="_blank">
+       <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/paper_rock_scissors.jpg" width="480"></kbd>
+       </a>
+   </td>
+   <td>
+       <span>🎮 <b>"Rock Paper Scissors"</b></span>
+   </td>
+  </tr>
+  
+ <tr>
+    <td>
+        <a href="https://rolling-scopes-school.github.io/nilender-andrey-JSFE2021Q1/match-match-game/dist/" target="_blank">
+       <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/match_match_game.jpg" width="480"></kbd>
+       </a>
+   </td>
+   <td>
+      <span>🎮 <b>"Find a pair"</b></span>
+   </td>
+  </tr>
+
+ <tr>
+    <td>
+      <a href="https://nilender-andrey.github.io/test_tasks/image_gallery/" target="_blank">
+     <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2021-12-16_17-45-21.png" width="480"></kbd>
+     </a>
+      </td>
+   <td>
+     <span>👀 <b>"Gallery"</b> you can add pictures through the url address by dragging it with the mouse or selecting from the folder</span>
+   </td>
+  </tr>
+  
+ <tr>
+    <td>
+    <a href="https://nilender-andrey.github.io/test_tasks/react_book_search_google_books_API/" target="_blank">
+  <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2021-12-06_10-20-03.png" width="480"></kbd> 
+  </a>
+   </td>
+   <td>
+     <span>🔍 React app for searching books using the Google Books API</span>
+   </td>
+  </tr>
+</table>
+ 
+
+
+   
+
+
+
+ 
+
+  
 
 
 
