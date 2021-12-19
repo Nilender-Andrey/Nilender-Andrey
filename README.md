@@ -6,8 +6,8 @@
 &nbsp;
 
 **To do this, done:**  
- ✔️ Completed the course "JavaScript / Front-end 2021" at "RS School"  
- ✔️ Completed the course "ReactJS 2021" at "ItGid"  
+ ✔️ <a href="https://app.rs.school/certificate/9t3d17an"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20JavaScript%2FFront--end%202021-orange?style=for-the-badge"/></a>   
+ ✔️ <a href="https://itgid.info/certificate/view?Certificate%5Buid%5D=ptqs34u9u6"> <img alt="certificate" src="https://img.shields.io/badge/ItGid-certificate%20ReactJS-blue?style=for-the-badge"/></a>   
  🕛 Currently studying at "RS School" on a course on "NodeJS 2021" 
  &nbsp;
 
@@ -140,6 +140,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Completed the course "ReactJS 2021" at "ItGid"   
+Completed the course "JavaScript / Front-end 2021" at "RS School"  
 -->
 
 <!-- Архив -->
