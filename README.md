@@ -1,5 +1,5 @@
-## Hello! 👋
-
+## Hello! 👋  
+My name is Andrey and I am striving to become a professional in IT development. I bring up my daughters, I cook deliciously, I read a lot.
 
 ❗ My goal: become Frontend or Backend developer => Full Stack Web Developer
 -----
