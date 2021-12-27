@@ -1,9 +1,9 @@
 ## Hello! 👋
-&nbsp;
+
 
 ❗ My goal: become Frontend or Backend developer => Full Stack Web Developer
 -----
-&nbsp;
+
 
 **To do this, done:**  
  ✔️ <a href="https://app.rs.school/certificate/9t3d17an"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20JavaScript%2FFront--end%202021-orange?style=for-the-badge"/></a>   
@@ -33,7 +33,7 @@
 👀 What would I show you? May be...
 -----
 
- <p align="center">You can click on the picture to see how the app works</b></p>
+ <p>You can click on the picture to see how the app works</b></p>
 
 -----
 <table align="center">
@@ -109,8 +109,6 @@
    </td>
   </tr>
 </table>
-
------
 
 -----
  
