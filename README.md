@@ -1,4 +1,4 @@
-## Hello! 👋  
+ ## 👋Hello!   
 My name is Andrey and I am striving to become a professional in IT development. I bring up my daughters, I cook deliciously, I read a lot.
 
 ❗ My goal: become Frontend or Backend developer 🚀 Full Stack Web Developer
@@ -11,7 +11,7 @@ My name is Andrey and I am striving to become a professional in IT development. 
  🕛 Currently studying at "RS School" on a course on "NodeJS 2021" 
  &nbsp;
 
-💻  I learned to work with: 
+💻  I know how to work with: 
 -----
 <section align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
