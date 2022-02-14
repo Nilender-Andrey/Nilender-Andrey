@@ -1,23 +1,19 @@
  ## 👋 Hello!   
 My name is Andrey and I am striving to become a professional in IT development. I bring up my daughters, I cook deliciously, I read a lot.
 
-<<<<<<< HEAD
-## ❗ My goal: become Frontend or Backend developer => Full Stack Web Developer
-=======
 ❗ My goal: become Frontend or Backend developer 🚀 Full Stack Web Developer
 -----
->>>>>>> 6654b1c4d7471dc1d0507655d0fcac7c1d71099e
+
 
 
 **To do this, done:**  
-<<<<<<< HEAD
+
  ✔️ Completed the course "JavaScript / Front-end 2021" at "RS School"  
  ✔️ Completed the course "ReactJS 2021" at "ItGid"  
- 🕛 Currently studying at "RS School" on a course on "NodeJS 2021"
+ ✔️ Completed the course "NodeJS 2021" at "RS School"  
 
 ## 💻 I learned to work with:
 
-=======
  ✔️ <a href="https://app.rs.school/certificate/9t3d17an"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20JavaScript%2FFront--end%202021-F7DF1E?style=for-the-badge"/></a>   
  ✔️ <a href="https://itgid.info/certificate/view?Certificate%5Buid%5D=ptqs34u9u6"> <img alt="certificate" src="https://img.shields.io/badge/ItGid-certificate%20ReactJS-blue?style=for-the-badge"/></a>   
  ✔️ <a href="https://app.rs.school/certificate/9t3d17an"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20NodeJS%202021-339933?style=for-the-badge"/></a>    
@@ -25,7 +21,7 @@ My name is Andrey and I am striving to become a professional in IT development. 
 
 💻  I know how to work with: 
 -----
->>>>>>> 6654b1c4d7471dc1d0507655d0fcac7c1d71099e
+
 <section align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -53,11 +49,12 @@ My name is Andrey and I am striving to become a professional in IT development. 
   <tr>
     <td>
       <a href="https://nilender-andrey.github.io/photographer-portfolio/" target="_blank" >
-      <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/" width="480" ></kbd>
+      <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2022-02-14_14-03-54.png" width="480" ></kbd>
       </a>
    </td>
    <td>
-     <span>🎮 <b>"Photographer portfolio"</b> </span>
+     <span>📄 <b>"Photographer portfolio"</b> </span><br /><br />     
+    <a href="https://github.com/Nilender-Andrey/photographer-portfolio/tree/js30%231.3-custom-video">Link to code<a/>
    </td>
   </tr>
 
@@ -133,8 +130,7 @@ My name is Andrey and I am striving to become a professional in IT development. 
    </td>
   </tr>
 </table>
-<<<<<<< HEAD
-=======
+
 
 -----
  
@@ -154,7 +150,7 @@ My name is Andrey and I am striving to become a professional in IT development. 
 
 
 
->>>>>>> 6654b1c4d7471dc1d0507655d0fcac7c1d71099e
+
 
 <!--
 **Nilender-Andrey/Nilender-Andrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
