@@ -1,14 +1,31 @@
-## Hello! 👋
+ ## 👋 Hello!   
+My name is Andrey and I am striving to become a professional in IT development. I bring up my daughters, I cook deliciously, I read a lot.
 
+<<<<<<< HEAD
 ## ❗ My goal: become Frontend or Backend developer => Full Stack Web Developer
+=======
+❗ My goal: become Frontend or Backend developer 🚀 Full Stack Web Developer
+-----
+>>>>>>> 6654b1c4d7471dc1d0507655d0fcac7c1d71099e
+
 
 **To do this, done:**  
+<<<<<<< HEAD
  ✔️ Completed the course "JavaScript / Front-end 2021" at "RS School"  
  ✔️ Completed the course "ReactJS 2021" at "ItGid"  
  🕛 Currently studying at "RS School" on a course on "NodeJS 2021"
 
 ## 💻 I learned to work with:
 
+=======
+ ✔️ <a href="https://app.rs.school/certificate/9t3d17an"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20JavaScript%2FFront--end%202021-F7DF1E?style=for-the-badge"/></a>   
+ ✔️ <a href="https://itgid.info/certificate/view?Certificate%5Buid%5D=ptqs34u9u6"> <img alt="certificate" src="https://img.shields.io/badge/ItGid-certificate%20ReactJS-blue?style=for-the-badge"/></a>   
+ ✔️ <a href="https://app.rs.school/certificate/9t3d17an"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20NodeJS%202021-339933?style=for-the-badge"/></a>    
+ &nbsp;
+
+💻  I know how to work with: 
+-----
+>>>>>>> 6654b1c4d7471dc1d0507655d0fcac7c1d71099e
 <section align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -24,10 +41,11 @@
 <img alt="Mongodb" src="https://img.shields.io/badge/Mongodb-4db33d?style=for-the-badge&logo=Mongodb&logoColor=fff"/>
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </section>
+&nbsp;
 
 ## 👀 What would I show you? May be...
 
- <p align="center">You can click on the picture to see how the app works</b></p>
+ <p>You can click on the picture to see how the app works</b></p>
 
 ---
 
@@ -50,7 +68,8 @@
       </a>
    </td>
    <td>
-     <span>🎮 <b>"English for kids"</b> learning English words</span>
+     <span>🎮 <b>"English for kids"</b> learning English words</span><br /><br />  
+   <a href="https://github.com/Nilender-Andrey/english-for-kids-base">Link to code<a/>
    </td>
   </tr>
  
@@ -61,7 +80,8 @@
     </a>
    </td>
    <td>
-      <span>🔍 <b>"Rick and Morty"</b> search and filter by TV series characters</span>
+      <span>🔍 <b>"Rick and Morty"</b> search and filter by TV series characters</span><br /><br />  
+     <a href="https://github.com/Nilender-Andrey/react/tree/react-testing">Link to code<a/>
    </td>
   </tr>
   
@@ -72,8 +92,9 @@
        </a>
    </td>
    <td>
-       <span>🎮 <b>"Rock Paper Scissors"</b></span>
-   </td>
+       <span>🎮 <b>"Rock Paper Scissors"</b></span><br /><br />  
+    <a href="https://github.com/Nilender-Andrey/Make-React-Apps/tree/Paper_Rock_Scissors">Link to code<a/>
+      </td>
   </tr>
   
  <tr>
@@ -83,7 +104,8 @@
        </a>
    </td>
    <td>
-      <span>🎮 <b>"Find a pair"</b></span>
+      <span>🎮 <b>"Find a pair"</b></span><br /><br />  
+    <a href="https://github.com/Nilender-Andrey/nilender-andrey-JSFE2021Q1/tree/Match-Match-Game">Link to code<a/>
    </td>
   </tr>
 
@@ -94,7 +116,8 @@
      </a>
       </td>
    <td>
-     <span>👀 <b>"Gallery"</b> you can add pictures through the url address by dragging it with the mouse or selecting from the folder</span>
+     <span>👀 <b>"Gallery"</b> you can add pictures through the url address by dragging it with the mouse or selecting from the folder</span><br /><br />  
+    <a href="https://github.com/Nilender-Andrey/test_tasks/tree/image_gallery">Link to code<a/>
    </td>
   </tr>
   
@@ -105,10 +128,33 @@
       </a>
    </td>
    <td>
-     <span>🔍 React app for searching books using the Google Books API</span>
+     <span>🔍 React app for searching books using the Google Books API</span><br /><br /> 
+    <a href="https://github.com/Nilender-Andrey/test_tasks/tree/react_book_search_google_books_API">Link to code<a/>
    </td>
   </tr>
 </table>
+<<<<<<< HEAD
+=======
+
+-----
+ 
+### Thank you for your time! 😎
+
+   
+
+
+
+ 
+
+  
+
+
+
+
+
+
+
+>>>>>>> 6654b1c4d7471dc1d0507655d0fcac7c1d71099e
 
 <!--
 **Nilender-Andrey/Nilender-Andrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -123,6 +169,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Completed the course "ReactJS 2021" at "ItGid"   
+Completed the course "JavaScript / Front-end 2021" at "RS School"  
 -->
 
 <!-- Архив -->
