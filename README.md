@@ -1,15 +1,14 @@
 ## Hello! 👋
 
-❗ My goal: become Frontend or Backend developer => Full Stack Web Developer
------
+## ❗ My goal: become Frontend or Backend developer => Full Stack Web Developer
 
 **To do this, done:**  
  ✔️ Completed the course "JavaScript / Front-end 2021" at "RS School"  
  ✔️ Completed the course "ReactJS 2021" at "ItGid"  
- 🕛 Currently studying at "RS School" on a course on "NodeJS 2021"  
+ 🕛 Currently studying at "RS School" on a course on "NodeJS 2021"
 
-💻  I learned to work with: 
------
+## 💻 I learned to work with:
+
 <section align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -26,13 +25,24 @@
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </section>
 
-👀 What would I show you? May be...
------
+## 👀 What would I show you? May be...
 
  <p align="center">You can click on the picture to see how the app works</b></p>
 
------
+---
+
 <table align="center">
+  <tr>
+    <td>
+      <a href="https://nilender-andrey.github.io/photographer-portfolio/" target="_blank" >
+      <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/" width="480" ></kbd>
+      </a>
+   </td>
+   <td>
+     <span>🎮 <b>"Photographer portfolio"</b> </span>
+   </td>
+  </tr>
+
   <tr>
     <td>
       <a href="https://rolling-scopes-school.github.io/nilender-andrey-JSFE2021Q1/english-for-kids-base/dist/" target="_blank" >
@@ -68,7 +78,7 @@
   
  <tr>
     <td>
-        <a href="https://rolling-scopes-school.github.io/nilender-andrey-JSFE2021Q1/match-match-game/dist/" target="_blank">
+       <a href="https://rolling-scopes-school.github.io/nilender-andrey-JSFE2021Q1/match-match-game/dist/" target="_blank">
        <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/match_match_game.jpg" width="480"></kbd>
        </a>
    </td>
@@ -79,7 +89,7 @@
 
  <tr>
     <td>
-      <a href="https://nilender-andrey.github.io/test_tasks/image_gallery/" target="_blank">
+     <a href="https://nilender-andrey.github.io/test_tasks/image_gallery/" target="_blank">
      <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2021-12-16_17-45-21.png" width="480"></kbd>
      </a>
       </td>
@@ -90,32 +100,15 @@
   
  <tr>
     <td>
-    <a href="https://nilender-andrey.github.io/test_tasks/react_book_search_google_books_API/" target="_blank">
-  <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2021-12-06_10-20-03.png" width="480"></kbd> 
-  </a>
+      <a href="https://nilender-andrey.github.io/test_tasks/react_book_search_google_books_API/" target="_blank">
+      <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2021-12-06_10-20-03.png" width="480"></kbd> 
+      </a>
    </td>
    <td>
      <span>🔍 React app for searching books using the Google Books API</span>
    </td>
   </tr>
 </table>
- 
-
-
-   
-
-
-
- 
-
-  
-
-
-
-
-
-
-
 
 <!--
 **Nilender-Andrey/Nilender-Andrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -133,8 +126,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- Архив -->
-<!-- <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-8C0000.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp; 
-<img alt="graphql" src="https://img.shields.io/badge/graphql-8C0000.svg?&style=for-the-badge&logo=graphql&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp; 
+<!-- <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-8C0000.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="graphql" src="https://img.shields.io/badge/graphql-8C0000.svg?&style=for-the-badge&logo=graphql&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="testing-library" src="https://img.shields.io/badge/rtl-8C0000.svg?&style=for-the-badge&logo=testing-library&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="next.js" src="https://img.shields.io/badge/next.js-8C0000.svg?&style=for-the-badge&logo=next.js&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-8C0000.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
