@@ -16,7 +16,7 @@ My name is Andrey and I am striving to become a professional in IT development. 
 
  ✔️ <a href="https://app.rs.school/certificate/9t3d17an"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20JavaScript%2FFront--end%202021-F7DF1E?style=for-the-badge"/></a>   
  ✔️ <a href="https://itgid.info/certificate/view?Certificate%5Buid%5D=ptqs34u9u6"> <img alt="certificate" src="https://img.shields.io/badge/ItGid-certificate%20ReactJS-blue?style=for-the-badge"/></a>   
- ✔️ <a href="https://app.rs.school/certificate/9t3d17an"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20NodeJS%202021-339933?style=for-the-badge"/></a>    
+ ✔️ <a href="https://app.rs.school/certificate/143zikow"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20NodeJS%202021-339933?style=for-the-badge"/></a>    
  &nbsp;
 
 💻  I know how to work with: 
