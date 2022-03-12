@@ -1,24 +1,36 @@
  ## 👋 Hello!   
 My name is Andrey and I am striving to become a professional in IT development. I bring up my daughters, I cook deliciously, I read a lot.
 
+-----
 ❗ My goal: become Frontend or Backend developer 🚀 Full Stack Web Developer
 -----
-
-
-
 **To do this, done:**  
 
  ✔️ Completed the course "JavaScript / Front-end 2021" at "RS School"  
  ✔️ Completed the course "ReactJS 2021" at "ItGid"  
  ✔️ Completed the course "NodeJS 2021" at "RS School"  
 
+-----
 ## 💻 I learned to work with:
+<table>
+  <tr>
+     <td>✔️</td><td><a href="https://app.rs.school/certificate/9t3d17an"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20JavaScript%2FFront--end%202021-F7DF1E?style=for-the-badge"/></a></td>
+  </tr>
 
- ✔️ <a href="https://app.rs.school/certificate/9t3d17an"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20JavaScript%2FFront--end%202021-F7DF1E?style=for-the-badge"/></a>   
- ✔️ <a href="https://itgid.info/certificate/view?Certificate%5Buid%5D=ptqs34u9u6"> <img alt="certificate" src="https://img.shields.io/badge/ItGid-certificate%20ReactJS-blue?style=for-the-badge"/></a>   
- ✔️ <a href="https://app.rs.school/certificate/143zikow"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20NodeJS%202021-339933?style=for-the-badge"/></a>    
- &nbsp;
+  <tr>
+    <td>✔️</td><td> <a href="https://itgid.info/certificate/view?Certificate%5Buid%5D=ptqs34u9u6"> <img alt="certificate" src="https://img.shields.io/badge/ItGid-certificate%20ReactJS-blue?style=for-the-badge"/></a></td>
+  </tr>
+ 
+  <tr>
+    <td>✔️</td><td> <a href="https://app.rs.school/certificate/143zikow"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20NodeJS%202021-339933?style=for-the-badge"/></a></td>
+  </tr>
+ 
+  <tr>
+    <td>🕑</td><td> <img alt="codewars" src="https://www.codewars.com/users/Nilender-Andrey/badges/small"/></td>
+  </tr>
+</table>
 
+-----
 💻  I know how to work with: 
 -----
 
@@ -38,6 +50,8 @@ My name is Andrey and I am striving to become a professional in IT development. 
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </section>
 &nbsp;
+
+-----
 
 ## 👀 What would I show you? May be...
 
@@ -110,7 +124,7 @@ My name is Andrey and I am striving to become a professional in IT development. 
  <tr>
     <td>
        <a href="https://nilender-andrey.github.io/Make-React-Apps/paper_rock_scissors/" target="_blank">
-       <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/paper_rock_scissors.jpg" width="480"></kbd>
+       <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/paper_rock_scissors.jpg"></kbd>
        </a>
    </td>
    <td>
@@ -122,7 +136,7 @@ My name is Andrey and I am striving to become a professional in IT development. 
  <tr>
     <td>
        <a href="https://rolling-scopes-school.github.io/nilender-andrey-JSFE2021Q1/match-match-game/dist/" target="_blank">
-       <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/match_match_game.jpg" width="480"></kbd>
+       <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/match_match_game.jpg"></kbd>
        </a>
    </td>
    <td>
@@ -134,7 +148,7 @@ My name is Andrey and I am striving to become a professional in IT development. 
  <tr>
     <td>
      <a href="https://nilender-andrey.github.io/test_tasks/image_gallery/" target="_blank">
-     <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2021-12-16_17-45-21.png" width="480"></kbd>
+     <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2021-12-16_17-45-21.png"></kbd>
      </a>
       </td>
    <td>
@@ -146,7 +160,7 @@ My name is Andrey and I am striving to become a professional in IT development. 
  <tr>
     <td>
       <a href="https://nilender-andrey.github.io/test_tasks/react_book_search_google_books_API/" target="_blank">
-      <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2021-12-06_10-20-03.png" width="480"></kbd> 
+      <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2021-12-06_10-20-03.png"></kbd> 
       </a>
    </td>
    <td>
