@@ -47,6 +47,19 @@ My name is Andrey and I am striving to become a professional in IT development. 
 
 <table align="center">
  
+   <tr>
+    <td>
+      <a href="https://nilender-andrey.github.io/Make-React-Apps/starDB/index.html" target="_blank" >
+      <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2022-03-12_16-18-45.png" width="480" ></kbd>
+      </a>
+   </td>
+   <td>
+     <span>📄 <b>"StarDB"</b> single page application react</span><br /><br />     
+    <a href="https://github.com/Nilender-Andrey/Make-React-Apps/tree/StarDB/StarDB">Link to code<a/>
+   </td>
+  </tr>
+  
+ <tr>
   <td>
       <a href="https://nilender-andrey.github.io/js/random-game/" target="_blank">
        <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2022-02-26_17-17-49.jpg" width="480" ></kbd>
