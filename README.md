@@ -157,7 +157,7 @@ My name is Andrey and I am striving to become a professional in IT development. 
     <a href="https://github.com/Nilender-Andrey/nilender-andrey-JSFE2021Q1/tree/Match-Match-Game">Link to code<a/>
    </td>
   </tr>
-
+  <!-- 
  <tr>
     <td>
      <a href="https://nilender-andrey.github.io/test_tasks/image_gallery/" target="_blank">
@@ -169,7 +169,7 @@ My name is Andrey and I am striving to become a professional in IT development. 
     <a href="https://github.com/Nilender-Andrey/test_tasks/tree/image_gallery">Link to code<a/>
    </td>
   </tr>
-  <!-- 
+
  <tr>
     <td>
       <a href="https://nilender-andrey.github.io/test_tasks/react_book_search_google_books_API/" target="_blank">
