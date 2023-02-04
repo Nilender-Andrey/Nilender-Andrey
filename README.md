@@ -60,7 +60,7 @@ My name is Andrey and I am striving to become a professional in IT development. 
 ---
 
 <table align="center">
- 
+ <!--
  <tr>
   <td>
       <a href="https://nilender-andrey.github.io/studioratio/module2/" target="_blank">
@@ -72,6 +72,7 @@ My name is Andrey and I am striving to become a professional in IT development. 
    <a href="https://github.com/Nilender-Andrey/studioratio/tree/module2">Link to code<a/>
    </td>
   </tr>
+-->
  
    <tr>
     <td>
@@ -168,7 +169,7 @@ My name is Andrey and I am striving to become a professional in IT development. 
     <a href="https://github.com/Nilender-Andrey/test_tasks/tree/image_gallery">Link to code<a/>
    </td>
   </tr>
-  
+  <!-- 
  <tr>
     <td>
       <a href="https://nilender-andrey.github.io/test_tasks/react_book_search_google_books_API/" target="_blank">
@@ -180,6 +181,7 @@ My name is Andrey and I am striving to become a professional in IT development. 
     <a href="https://github.com/Nilender-Andrey/test_tasks/tree/react_book_search_google_books_API">Link to code<a/>
    </td>
   </tr>
+-->
 </table>
 
 
