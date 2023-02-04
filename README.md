@@ -47,7 +47,10 @@ My name is Andrey and I am striving to become a professional in IT development. 
 <img alt="Figma" src="https://img.shields.io/badge/Figma-737373?style=for-the-badge&logo=figma&logoColor=fa9705"/>
 <img alt="SCSS" src="https://img.shields.io/badge/Scss-cc6a9a?style=for-the-badge&logo=sass&logoColor=f3f6f4"/>
 <img alt="Mongodb" src="https://img.shields.io/badge/Mongodb-4db33d?style=for-the-badge&logo=Mongodb&logoColor=fff"/>
+<img alt="MS-SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+
+
 </section>
 &nbsp;
 
