@@ -22,8 +22,18 @@ My name is Andrey and I am striving to become a professional in IT development. 
   </tr>
  
   <tr>
-    <td>✔️</td><td> <a href="https://app.rs.school/certificate/143zikow"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20NodeJS%202021-339933?style=for-the-badge"/></a></td>
+    <td>✔️</td><td> <a href="https://app.rs.school/certificate/143zikow">
+   <img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20NodeJS%202021-339933?style=for-the-badge"/></a></td>
   </tr>
+ 
+ <tr>
+ <td>✔️</td>
+ <td> 
+  <a href="https://stepik.org/cert/1658918">
+   <img alt="certificate" src="https://img.shields.io/badge/Stepik-certificate%20SQL%202022-31648c?style=for-the-badge"/>
+  </a>
+</td>
+</tr>
  
   <tr>
     <td>🕑</td><td> <img alt="codewars" src="https://www.codewars.com/users/Nilender-Andrey/badges/small"/></td>
