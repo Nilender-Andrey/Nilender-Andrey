@@ -73,10 +73,10 @@ My name is Andrey and I am striving to become a professional in IT development. 
 ---
 
 <table align="center">
- <!--
+ 
  <tr>
   <td>
-      <a href="https://nilender-andrey.github.io/studioratio/module2/" target="_blank">
+      <a href="https://nilender-andrey.github.io/JavaScript/game_2048/index.html" target="_blank">
        <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2022-03-22_18-50-34.png" width="480" ></kbd>
       </a>
    </td>
@@ -85,7 +85,6 @@ My name is Andrey and I am striving to become a professional in IT development. 
    <a href="https://github.com/Nilender-Andrey/studioratio/tree/module2">Link to code<a/>
    </td>
   </tr>
--->
  
    <tr>
     <td>
