@@ -100,13 +100,13 @@ My name is Andrey and I am striving to become a professional in IT development. 
   
  <tr>
   <td>
-      <a href="https://nilender-andrey.github.io/js/random-game/" target="_blank">
+      <a href="https://nilender-andrey.github.io/JavaScript/random-game/" target="_blank">
        <kbd><img src="https://github.com/Nilender-Andrey/Nilender-Andrey/blob/main/src/2022-02-26_17-17-49.jpg" width="480" ></kbd>
       </a>
    </td>
    <td>
      <span>🎮 <b>"Wolf and eggs"</b> the game</span><br /><br />  
-   <a href="https://github.com/Nilender-Andrey/js/tree/random-game/random-game">Link to code<a/>
+   <a href="https://github.com/Nilender-Andrey/JavaScript/tree/main/random-game">Link to code<a/>
    </td>
   </tr>
   
