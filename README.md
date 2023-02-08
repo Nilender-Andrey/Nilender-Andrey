@@ -2,16 +2,10 @@
 My name is Andrey and I am striving to become a professional in IT development. I bring up my daughters, I cook deliciously, I read a lot.
 
 -----
-❗ My goal: become Frontend or Backend developer 🚀 Full Stack Web Developer
+❗ My goal is to be in demand as a frontend developer    
+🚀 Committed to Full Stack Web Developer
 -----
 **To do this, done:**  
-
- ✔️ Completed the course "JavaScript / Front-end 2021" at "RS School"  
- ✔️ Completed the course "ReactJS 2021" at "ItGid"  
- ✔️ Completed the course "NodeJS 2021" at "RS School"  
-
------
-## 💻 I learned to work with:
 <table>
   <tr>
      <td>✔️</td><td><a href="https://app.rs.school/certificate/9t3d17an"><img alt="certificate" src="https://img.shields.io/badge/RS%20School-certificate%20JavaScript%2FFront--end%202021-F7DF1E?style=for-the-badge"/></a></td>
